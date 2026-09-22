@@ -1,0 +1,14 @@
+{
+  "name": "Maktab Forex — مکتب فارکس",
+  "short_name": "Maktab Forex",
+  "description": "Free forex education in Dari and English for the Afghan community.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0B1622",
+  "theme_color": "#0B1622",
+  "icons": [
+    { "src": "/assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
