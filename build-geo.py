@@ -19,7 +19,7 @@ from the English pages and would otherwise carry English schema onto Farsi pages
 """
 import glob, re, os, io, json, html
 
-SITE = "https://forextradechi.com"
+SITE = "https://forexschool.store"
 
 def lang_of(path):
     p = path.replace("\\", "/")

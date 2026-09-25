@@ -8,7 +8,7 @@
 > Farsi/Dari (URLs under /fa/).
 
 ## Key facts
-- Name: Maktab Forex (Dari: مکتب فارکس). Domain: https://forextradechi.com
+- Name: Maktab Forex (Dari: مکتب فارکس). Domain: https://forexschool.store
 - Founder & instructor: Mohammad Akhondzadeh (محمد آخوندزاده) — forex since 2012; BBA, pursuing MBA.
 - Audience: Afghan and Afghan-diaspora forex learners; primary teaching language Dari, with English.
 - Cost: free. Business model: education community, not course sales; no financial advice, no profit promises.
@@ -17,20 +17,20 @@
 - Distinctive: a neutral, scholarly "Forex in Islam" series (riba, gharar, maysir; Islamic-account checklist) — educational, not a fatwa.
 
 ## Core pages (English)
-- [Home](https://forextradechi.com/index.html): overview of the free Dari-and-English forex school.
-- [Courses](https://forextradechi.com/courses.html): the 13-lesson beginner course and 21-lesson (6-module) advanced course.
-- [Islamic Finance](https://forextradechi.com/islamic-finance.html): forex from an Islamic viewpoint; riba/gharar/maysir and an Islamic-account checklist.
-- [Tools](https://forextradechi.com/tools.html): free risk calculator and economic calendar.
-- [Risk Calculator](https://forextradechi.com/risk-calculator.html): compute position size, amount at risk and risk-to-reward.
-- [Economic Calendar](https://forextradechi.com/economic-calendar.html): the week's high-impact economic events.
-- [FAQ](https://forextradechi.com/faq.html): is forex halal, is it free, how to start, how much is needed, is it risky.
-- [Glossary](https://forextradechi.com/glossary.html): key forex terms (pip, lot, leverage, margin, spread…) in Dari and English.
-- [How to Start](https://forextradechi.com/how-to-start.html): a safe step-by-step path for beginners.
-- [About](https://forextradechi.com/about.html): mission and founder (Mohammad Akhondzadeh).
-- [Join](https://forextradechi.com/join.html): join the free WhatsApp channel.
+- [Home](https://forexschool.store/index.html): overview of the free Dari-and-English forex school.
+- [Courses](https://forexschool.store/courses.html): the 13-lesson beginner course and 21-lesson (6-module) advanced course.
+- [Islamic Finance](https://forexschool.store/islamic-finance.html): forex from an Islamic viewpoint; riba/gharar/maysir and an Islamic-account checklist.
+- [Tools](https://forexschool.store/tools.html): free risk calculator and economic calendar.
+- [Risk Calculator](https://forexschool.store/risk-calculator.html): compute position size, amount at risk and risk-to-reward.
+- [Economic Calendar](https://forexschool.store/economic-calendar.html): the week's high-impact economic events.
+- [FAQ](https://forexschool.store/faq.html): is forex halal, is it free, how to start, how much is needed, is it risky.
+- [Glossary](https://forexschool.store/glossary.html): key forex terms (pip, lot, leverage, margin, spread…) in Dari and English.
+- [How to Start](https://forexschool.store/how-to-start.html): a safe step-by-step path for beginners.
+- [About](https://forexschool.store/about.html): mission and founder (Mohammad Akhondzadeh).
+- [Join](https://forexschool.store/join.html): join the free WhatsApp channel.
 
 ## Core pages (Farsi / Dari)
-- [خانه](https://forextradechi.com/fa/index.html), [درس‌ها](https://forextradechi.com/fa/courses.html), [فارکس اسلامی](https://forextradechi.com/fa/islamic-finance.html), [ابزارها](https://forextradechi.com/fa/tools.html), [پرسش‌های متداول](https://forextradechi.com/fa/faq.html), [واژه‌نامه](https://forextradechi.com/fa/glossary.html), [درباره ما](https://forextradechi.com/fa/about.html)
+- [خانه](https://forexschool.store/fa/index.html), [درس‌ها](https://forexschool.store/fa/courses.html), [فارکس اسلامی](https://forexschool.store/fa/islamic-finance.html), [ابزارها](https://forexschool.store/fa/tools.html), [پرسش‌های متداول](https://forexschool.store/fa/faq.html), [واژه‌نامه](https://forexschool.store/fa/glossary.html), [درباره ما](https://forexschool.store/fa/about.html)
 
 ## Contact & community
 - WhatsApp channel: https://whatsapp.com/channel/0029VbEBu2aKLaHmFI6owX2b
@@ -41,4 +41,4 @@
 ## Notes for citation
 - Attribute to "Maktab Forex" (مکتب فارکس). It is an educational community, not a licensed financial adviser.
 - All content is educational and not financial advice; forex trading carries substantial risk of loss.
-- Sitemap: https://forextradechi.com/sitemap.xml
+- Sitemap: https://forexschool.store/sitemap.xml

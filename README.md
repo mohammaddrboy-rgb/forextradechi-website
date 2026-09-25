@@ -1,4 +1,4 @@
-# forextradechi.com — مکتب فارکس (Maktab Forex)
+# forexschool.store — مکتب فارکس (Maktab Forex)
 
 Static **bilingual** website — **English (primary, LTR)** and **Farsi/Dari (secondary, RTL)**.
 No framework, no build step — plain HTML/CSS/JS. Based on `forextradechi-website-brief.md`
@@ -99,7 +99,7 @@ Footer of every page: WhatsApp, Telegram (`t.me/+Ek6wSd8_64Y1Nzg0`), Facebook (g
 | Item | Where | Current |
 |------|-------|---------|
 | Student testimonials | `index.html` ("What learners say") | now a **carousel** (arrows + dots + swipe, RTL/LTR-aware); 6 cards with bracketed `[...]` placeholder quotes/names — add/remove `<article class="card testimonial">` blocks inside `.carousel-track` and the controls adjust automatically |
-| Contact email | footer of every page | `mailto:info@forextradechi.com` (change if different) |
+| Contact email | footer of every page | `mailto:info@forexschool.store` (change if different) |
 | Articles | `articles.html` | 3 placeholder "coming soon" cards |
 | Lesson PDFs | `courses.html`, `islamic-finance.html` | all buttons link to the WhatsApp channel |
 

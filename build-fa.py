@@ -16,7 +16,7 @@ Run it after ANY change to the English pages (content, nav, footer):
 """
 import glob, re, os, io
 
-BASE = "https://forextradechi.com"
+BASE = "https://forexschool.store"
 
 # Farsi meta descriptions per page (SEO). Falls back to the Farsi <title> if missing.
 FA_DESC = {
