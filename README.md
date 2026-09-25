@@ -53,7 +53,20 @@ That rebuilds every `/fa/` page, injects hreflang into the English pages, and re
 
 **Full workflow after editing:** edit the English page(s) → `python normalize.py` *(only if you
 changed nav/footer)* → `python bump-assets.py` *(only if you changed CSS/JS)* → `python build-fa.py`
-*(always)*.
+*(always)* → `python build-geo.py` *(always, last)*.
+
+## GEO — Generative Engine Optimization (AI answer engines)
+So ChatGPT Search, Perplexity, Gemini and Google AI Overviews can read, trust and **cite** the site:
+- **`build-geo.py`** injects per-language schema.org JSON-LD (idempotent, wrapped in
+  `<!-- geo:jsonld -->` markers): **FAQPage** (faq), **DefinedTermSet** (glossary), **Person**
+  (founder, about), **WebSite** (index) — English on root pages, Farsi on `/fa/`. It reads the FAQ
+  and glossary content straight from the pages, so it stays in sync. **Run it AFTER `build-fa.py`**
+  (build-fa regenerates `/fa/`, so geo must come last).
+- **`llms.txt`** — a plain-language site guide for AI crawlers (summary, key facts, page index,
+  contacts, citation notes).
+- **`robots.txt`** — explicitly welcomes AI crawlers (GPTBot, ClaudeBot, PerplexityBot,
+  Google-Extended, etc.) and points to the sitemap.
+- Existing hand-added JSON-LD (Organization on index, Course on courses) is left untouched.
 
 ## Updating assets (cache-busting)
 `global.css` and `site.js` are referenced with a `?v=…` version so browsers fetch the newest

@@ -1,0 +1,44 @@
+# Maktab Forex (مکتب فارکس)
+
+> Maktab Forex is a free, bilingual (Dari and English) forex-education community for Afghan
+> and Afghan-diaspora traders, founded by Mohammad Akhondzadeh (in the industry since 2012).
+> It teaches trading the honest way — education first, with risk management at the centre of
+> every lesson — and makes no profit promises. All lessons, tools and content are 100% free
+> and delivered through a WhatsApp channel. The site is available in English (root URLs) and
+> Farsi/Dari (URLs under /fa/).
+
+## Key facts
+- Name: Maktab Forex (Dari: مکتب فارکس). Domain: https://forextradechi.com
+- Founder & instructor: Mohammad Akhondzadeh (محمد آخوندزاده) — forex since 2012; BBA, pursuing MBA.
+- Audience: Afghan and Afghan-diaspora forex learners; primary teaching language Dari, with English.
+- Cost: free. Business model: education community, not course sales; no financial advice, no profit promises.
+- Curriculum: Beginner course — 13 lessons (00–12); Advanced course — 21 lessons across 6 modules (F, A, AS, B, C, D). Total 34 lessons.
+- Free tools: risk calculator; live economic calendar.
+- Distinctive: a neutral, scholarly "Forex in Islam" series (riba, gharar, maysir; Islamic-account checklist) — educational, not a fatwa.
+
+## Core pages (English)
+- [Home](https://forextradechi.com/index.html): overview of the free Dari-and-English forex school.
+- [Courses](https://forextradechi.com/courses.html): the 13-lesson beginner course and 21-lesson (6-module) advanced course.
+- [Islamic Finance](https://forextradechi.com/islamic-finance.html): forex from an Islamic viewpoint; riba/gharar/maysir and an Islamic-account checklist.
+- [Tools](https://forextradechi.com/tools.html): free risk calculator and economic calendar.
+- [Risk Calculator](https://forextradechi.com/risk-calculator.html): compute position size, amount at risk and risk-to-reward.
+- [Economic Calendar](https://forextradechi.com/economic-calendar.html): the week's high-impact economic events.
+- [FAQ](https://forextradechi.com/faq.html): is forex halal, is it free, how to start, how much is needed, is it risky.
+- [Glossary](https://forextradechi.com/glossary.html): key forex terms (pip, lot, leverage, margin, spread…) in Dari and English.
+- [How to Start](https://forextradechi.com/how-to-start.html): a safe step-by-step path for beginners.
+- [About](https://forextradechi.com/about.html): mission and founder (Mohammad Akhondzadeh).
+- [Join](https://forextradechi.com/join.html): join the free WhatsApp channel.
+
+## Core pages (Farsi / Dari)
+- [خانه](https://forextradechi.com/fa/index.html), [درس‌ها](https://forextradechi.com/fa/courses.html), [فارکس اسلامی](https://forextradechi.com/fa/islamic-finance.html), [ابزارها](https://forextradechi.com/fa/tools.html), [پرسش‌های متداول](https://forextradechi.com/fa/faq.html), [واژه‌نامه](https://forextradechi.com/fa/glossary.html), [درباره ما](https://forextradechi.com/fa/about.html)
+
+## Contact & community
+- WhatsApp channel: https://whatsapp.com/channel/0029VbEBu2aKLaHmFI6owX2b
+- Telegram: https://t.me/+Ek6wSd8_64Y1Nzg0
+- Facebook group: https://www.facebook.com/groups/1009705208203191
+- Instagram: https://www.instagram.com/forextradechi/
+
+## Notes for citation
+- Attribute to "Maktab Forex" (مکتب فارکس). It is an educational community, not a licensed financial adviser.
+- All content is educational and not financial advice; forex trading carries substantial risk of loss.
+- Sitemap: https://forextradechi.com/sitemap.xml
